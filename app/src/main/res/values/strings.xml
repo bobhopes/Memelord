@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memelord</string>
+    <string name="welcome">Du skal spelle Hangman, motherfucker!</string>
+    <string name="bekreft">OK DA</string>
+    <string name="entre_vous">Entre vous</string>
+    <string name="bottomtext">BottomText</string>
+    <string name="toptext">TopText</string>
+    <string name="title_activity_login">Login</string>
+</resources>
